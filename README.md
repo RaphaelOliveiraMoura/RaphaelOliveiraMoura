@@ -6,15 +6,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raphaeloliveiramoura/)
 [![Personal Website Badge](https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=Next.js&logoColor=white)](https://raphaeloliveira.dev/)
 
-<a href="https://github.com/raphaeloliveiramoura">
-  <img align="center" src=".github/assets/github-logo.gif" width="280" />
-</a>
-
-- 🔭 I’m currently working on [nata.house](https://github.com/natahouse)
+- 🔭 I’m currently working on [grupo boticário](https://www.grupoboticario.com.br/)
 - 🌱 I’m learning more about automating tests and architecture
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: raphaeldeoliveiramoura@gmail.com
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raphaeloliveiramoura&count_private=true" />
-</a>
